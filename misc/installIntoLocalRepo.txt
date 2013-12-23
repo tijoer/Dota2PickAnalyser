@@ -1,0 +1,10 @@
+mvn install:install-file -DlocalRepositoryPath=repo -DcreateChecksum=true -Dpackaging=jar -Dfile=opencv-2.4.6.0-windows-x86_64.jar -DgroupId=org.opencv -DartifactId=opencv -Dversion=2.4.6.0 -Dclassifier=windows-x86_64
+
+
+
+
+
+
+
+
+
